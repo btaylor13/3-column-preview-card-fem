@@ -1,2 +1,2 @@
 # 3-column-preview-card-fem
-3 column preview card from Frontend Mentor
+3 column preview card from Frontend Mentor using HTML and CSS
