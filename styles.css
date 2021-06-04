@@ -1,11 +1,13 @@
 body {
     background-color: hsl(0, 0%, 95%);
-    padding: 2rem 10rem;
+    padding: 40px 40px;
 }
 
 .container {
-    border-radius: 30px;
-    
+    border: 1px hsl(0, 0%, 95%);
+    border-radius: 50px;
+    max-width: 1025px;
+    margin: auto
 }
 
 
@@ -26,6 +28,7 @@ p {
 
 .sedans {
     background-color: hsl(31, 77%, 52%);
+    border-radius: 10px 0 0 10px;
 }
 
 .suvs {
@@ -34,6 +37,7 @@ p {
 
 .luxury {
     background-color: hsl(179, 100%, 13%);
+    border-radius: 0 10px 10px 0;
 }
 
 button {
